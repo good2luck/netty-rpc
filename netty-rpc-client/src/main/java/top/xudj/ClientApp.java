@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * Client 启动类
+ * Client 演示类
  */
 public class ClientApp {
 

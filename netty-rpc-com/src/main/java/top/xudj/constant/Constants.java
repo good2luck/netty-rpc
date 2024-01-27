@@ -1,5 +1,8 @@
 package top.xudj.constant;
 
+/**
+ * 常量
+ */
 public class Constants {
 
     // host
